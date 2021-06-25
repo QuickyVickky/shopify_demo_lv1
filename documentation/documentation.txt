@@ -1,0 +1,43 @@
+
+shopify
+
+tabimov564@gridmire.com
+vL&MyT7W5uq&T^g
+TestDataWithGB01
+
+
+api
+
+
+https://temp-mail.org/en/view/6b06089662acecc1ab96bea61f28dd5c
+gbtestapp
+apikey 
+33624ec83a385aa162e5ea20d606c73c
+passwor
+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
+example url
+https://33624ec83a385aa162e5ea20d606c73c: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@testdatawithgb01.myshopify.com/admin/api/2021-04/orders.json
+shared secret
+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
+https://testdatawithgb01.myshopify.com/admin/products?selectedView=all
+
+
+
+
+
+https://gist.github.com/surferxo3/522e9882e9f00b47de8e72c553232c05
+
+
+
+<https://testdatawithgb01.myshopify.com/admin/api/2021-04/products.json?limit=250&page_info=eyJsYXN0X2lkIjo2NzIwNDYxNzAxMjczLCJsYXN0X3ZhbHVlIjoiRGFyayBNYXJvb24gQ29sb3IgS2Fyd2EgQ2hhdXRoIFNwZWNpYWwgU29mdCBTaWxrIEZlc3RpdmUgV2VhciBTYXJlZSBXaXRoIEJsb3VzZSBGb3IgV29tZW4iLCJkaXJlY3Rpb24iOiJuZXh0In0>; rel="next"
+
+
+
+<https://testdatawithgb01.myshopify.com/admin/api/2021-04/products.json?limit=250&page_info=eyJkaXJlY3Rpb24iOiJwcmV2IiwibGFzdF9pZCI6NjcyMDQ2MjM1NjYzMywibGFzdF92YWx1ZSI6IkJsdWUgQ29sb3JlZCBTb2Z0IFNpbGsgU2FyZWUgV2l0aCBCbG91c2UgUGllY2UgRm9yIFdvbWVuIn0>; rel="previous", <https://testdatawithgb01.myshopify.com/admin/api/2021-04/products.json?limit=250&page_info=eyJkaXJlY3Rpb24iOiJuZXh0IiwibGFzdF9pZCI6NjcyMDQyNDU0MjM2MSwibGFzdF92YWx1ZSI6IkV5ZS1DYXRjaGluZyBHcmVlbi1QaW5rIENvbG9yZWQgU29mdCBTaWxrIFNhcmVlIEZvciBXb21lbiBXaXRoIEJsb3VzZSJ9>; rel="next"
+
+
+
+https://support.outgrow.co/docs/shopify-locating-shopify-username-password-hostname
+
+
+
